@@ -8,7 +8,7 @@
         body {
             background: #555;
         }   
-        .content {
+        .content2 {
             position: relative;
             max-width: 300px;
             margin: auto;
@@ -47,14 +47,22 @@
     </style>
 </head>
 <body>
-
-<div class=content>
+<div class=content1>
+<header>
 <p class="kysely"> 
-<header><?php include 'header.php';?></header>
-
+<?php include 'header.php';?>
 </p>
+</header>
+</div>
+<div class=content2>
 <iframe src="https://giphy.com/embed/aBcsaAYpBEtLW" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<footer><?php include 'footer.php';?></footer>
+</div>
+<div class=content3>
+<footer>
+<p class="kysely"> 
+<?php include 'footer.php';?>
+</p>
+</footer>
 </div>
 </body>
 </html>
