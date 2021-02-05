@@ -43,21 +43,21 @@
 </head>
 <body>
 <div class=content1>
-<header>
-<p class="kysely"> 
-<?php include 'header.php';?>
-</p>
-</header>
+    <header>
+        <p class="kysely"> 
+            <?php include 'header.php';?>
+        </p>
+    </header>
 </div>
 <div class=content2>
-<iframe src="https://giphy.com/embed/3owzWkGtQ3us1pV0qc" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <iframe src="https://giphy.com/embed/3owzWkGtQ3us1pV0qc" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 <div class=content3>
-<footer>
-<p class="kysely"> 
-<?php include 'footer.php';?>
-</p>
-</footer>
+    <footer>
+        <p class="kysely"> 
+            <?php include 'footer.php';?>
+        </p>
+    </footer>
 </div>
 </body>
 </html>
