@@ -8,12 +8,27 @@
         body {
             background: #555;
         }   
+
+        .content1 {
+            position: relative;
+            max-width: 300px;
+            margin: auto;
+            background: white;
+            padding: 10px 30px 30px
+        }
         .content2 {
             position: relative;
             max-width: 300px;
             margin: auto;
             background: white;
-            padding: 10px 40px 30px
+            padding: 10px 30px 30px
+        }
+        .content3 {
+            position: relative;
+            max-width: 300px;
+            margin: auto;
+            background: white;
+            padding: 10px 30px 30px
         }
         .giphy-embed{
             width: 100%;
@@ -23,26 +38,6 @@
             text-align: center; 
             font-family: Arial, Helvetica, sans-serif;
             font-style: bold;
-        }
-        input[type=text], select {
-        width: 100%;
-        padding: 12px 20px;
-        margin: 8px 0;
-        display: inline-block;
-        border: 1px solid #ccc;
-        border-radius: 4px;
-        box-sizing: border-box;
-        }
-
-        input[type=submit] {
-        width: 100%;
-        background-color: #ff8000;
-        color: white;
-        padding: 14px 20px;
-        margin: 8px 0;
-        border: none;
-        border-radius: 4px;
-        cursor: pointer;
         }
     </style>
 </head>
