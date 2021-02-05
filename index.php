@@ -12,23 +12,23 @@
         .content1 {
             position: relative;
             max-width: 300px;
-            margin: auto;
+            margin: 10px auto 10px auto;
             background: white;
-            padding: 10px 30px 30px
+            padding: 10px 30px 10px
         }
         .content2 {
             position: relative;
             max-width: 300px;
-            margin: auto;
+            margin: 10px auto 10px auto;
             background: white;
-            padding: 10px 30px 30px
+            padding: 10px 30px 10px
         }
         .content3 {
             position: relative;
             max-width: 300px;
-            margin: auto;
+            margin: 10px auto 10px auto;
             background: white;
-            padding: 10px 30px 30px
+            padding: 10px 30px 10px
         }
         .giphy-embed{
             width: 100%;
